@@ -1,0 +1,7 @@
+.back {
+    width: 800px;
+    position: absolute;
+    margin-left: 330px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 75, 121, 1) 100%, rgba(0, 212, 255, 1) 100%);
+}
